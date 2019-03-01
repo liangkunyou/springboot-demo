@@ -77,7 +77,7 @@ public class TestController {
     }
 
     /**
-     * 根源获取用户信息
+     * 分页获取用户信息
      * @param pageNum
      * @param pageSize
      * @return
